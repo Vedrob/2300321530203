@@ -1,5 +1,5 @@
 import React from 'react';
-import NotificationDashboard from '../NotificationDashboard';
+import NotificationDashboard from './NotificationDashboard';
 
 function App() {
   return (
